@@ -1,5 +1,7 @@
-## Hi there 👋
+<img width="1200" height="400" alt="gps" src="https://github.com/user-attachments/assets/c059f614-c698-4d53-8192-eabda6684953" />
 
+## Hello! It's Piero here
+| Learning the art of problem-solving through data
 <!--
 **duck-scientist/duck-scientist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
