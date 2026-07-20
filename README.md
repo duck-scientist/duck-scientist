@@ -1,7 +1,7 @@
 <img width="1200" height="400" alt="gps (1)" src="https://github.com/user-attachments/assets/f8d176ea-4098-44e0-bb06-7b092df8a15c" />
 
 ## Hello! It's Piero here
-| Learning the art of problem-solving through data
+| baru belajar hehe
 <!--
 **duck-scientist/duck-scientist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
